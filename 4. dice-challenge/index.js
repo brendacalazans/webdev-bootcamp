@@ -6,8 +6,7 @@ if ( checkRefresh() == true) {
    
     setRandomNumber(dice);
     
-    changeImage(dice) agit@github.com:brendacalazans/web-development-bootcamp.git
-
+    changeImage(dice);
     changeTitle(dice);
 
 }
